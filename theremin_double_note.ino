@@ -1,3 +1,9 @@
+//
+// THEREMIN PROJECT WITH TWO SENSORS
+// AND volume.h LIBRARY AND MULTIPLE
+// SOUNDS GENERATOR
+//
+
 #include "Volume.h"
 
 int pinBuzzer= 5;     // setted in library Volume.h, pinBuzzer not used
